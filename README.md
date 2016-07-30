@@ -8,6 +8,7 @@
 <li>Front-End Development</li>
 <li>CSS</li>
 <li>HTML</li>
+<li>jQuery</li>
 <li>JavaScript</li>
 <li>Python</li>
 <li>Angular</li>
